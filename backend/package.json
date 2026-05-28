@@ -1,0 +1,13 @@
+{
+  "name": "namrata-foundation-backend",
+  "version": "1.0.0",
+  "description": "Express server API for Namrata Foundation full-stack website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

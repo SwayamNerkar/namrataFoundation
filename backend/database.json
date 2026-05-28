@@ -1,0 +1,38 @@
+{
+  "volunteers": [
+    {
+      "name": "Anjali Sharma",
+      "email": "anjali.sharma@gmail.com",
+      "skills": "Child Welfare & Teaching",
+      "availability": "weekends",
+      "message": "I would love to volunteer in teaching children and assisting the education camps in Nagpur rural areas.",
+      "date": "2026-05-27T00:52:05.222Z"
+    },
+    {
+      "name": "Vikram Singh Patil",
+      "email": "vikram.patil@agrioutlook.com",
+      "skills": "Agriculture Development",
+      "availability": "flexible",
+      "message": "Active agronomist. Happy to guide local farmers in rainwater harvesting setup and soil testing routines.",
+      "date": "2026-05-28T00:52:05.225Z"
+    }
+  ],
+  "donations": [
+    {
+      "amount": 500,
+      "method": "upi",
+      "date": "2026-05-26T12:52:05.225Z"
+    },
+    {
+      "amount": 1000,
+      "method": "card",
+      "date": "2026-05-27T12:52:05.225Z"
+    },
+    {
+      "amount": 5000,
+      "method": "upi",
+      "date": "2026-05-28T08:52:05.225Z"
+    }
+  ],
+  "contacts": []
+}
